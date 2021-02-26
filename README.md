@@ -1,4 +1,6 @@
 # tfwork
-MNIST Deep Autoencoder
+- **MNIST Deep Autoencoder**
+
+- **CIFAR-10 CNN Autoencoder**
 
 
