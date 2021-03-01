@@ -3,4 +3,6 @@
 
 - **CIFAR-10 CNN Autoencoder**
 
+- **Variational Autoencoder**
+
 
