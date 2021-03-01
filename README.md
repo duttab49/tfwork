@@ -3,6 +3,6 @@
 
 - **CIFAR-10 CNN Autoencoder**
 
-- **Variational Autoencoder**
+- **Variational Autoencoder** Average Structural Similarity index 0.73 after 100 epochs
 
 
