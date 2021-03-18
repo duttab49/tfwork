@@ -38,7 +38,7 @@ filename_dataset = tf.data.Dataset.list_files("/tmp/signs-training/*.png")
 image_dataset = filename_dataset.map(map_images).batch(BATCH_SIZE)
 
 # Generator
-# You'll pass the random_normal_dimensions to the first dense layer of the generator
+# Pass the random_normal_dimensions to the first dense layer of the generator
 random_normal_dimensions = 32
 
 generator = keras.models.Sequential([
